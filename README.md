@@ -26,6 +26,8 @@ npm run build:stage
 # build for production environment
 npm run build:prod
 ```
+## 效果
+<img src="./QQ20200415-092931@2x.png" width="600">
 
 ## 请我喝茶
 <img src="./567E72D4641D6A25FCD15D078AB86977.jpg" width="200">
